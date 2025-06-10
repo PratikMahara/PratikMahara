@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratik Mahara</h1>
-<h3 align="center">A dedicated MERN stack developer with a strong interest in web development and a solid grasp of Machine Learning fundamentals.</h3>
+<h3 align="center">A dedicated MERN stack developer with a strong interest in Web & App development and a solid grasp of Machine Learning fundamentals.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratikmahara" alt="pratikmahara" /></a> </p>
 
