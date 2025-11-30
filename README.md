@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratikmahara" alt="pratikmahara" /></a> </p>
 
-- 🔭 I’m currently working on [WebRTC (peerTopeer videocall and file transfer)](https://github.com/PratikMahara/WebRTC-PeerToPeer-Connection)
+- 🔭 I’m currently working on [-]
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **DEVOPS(docker, jenkins, kubernetes)**
 
 - 💬 Ask me about **react, node, Dart ,DSA**
 
