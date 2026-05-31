@@ -25,7 +25,7 @@ A passionate DevOps Engineer & MERN Stack Developer with hands-on experience in 
 - 📫 How to reach me: **maharapratik5@gmail.com**
 
 - 📄 Know about my experiences:  
-  <a href="https://drive.google.com/file/d/1ymwork4Ln0PUlmsbH83brCVgvD9TkrC1/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1Y0ugBQv34w9iV7ZeepokxIeccXMmXXAB/view?usp=sharing">
     Resume
   </a>
 
