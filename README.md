@@ -4,11 +4,7 @@
 A passionate DevOps Engineer & MERN Stack Developer with hands-on experience in cloud infrastructure, CI/CD automation, container orchestration, and modern web application development.
 </h3>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=pratikmahara" alt="pratikmahara" />
-  </a>
-</p>
+
 
 - 🔭 I’m currently working on **Cloud & DevOps Projects**
 
