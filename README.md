@@ -67,11 +67,17 @@ A passionate DevOps Engineer & MERN Stack Developer with hands-on experience in 
 </a>
 
 <a href="https://argo-cd.readthedocs.io/" target="_blank" rel="noreferrer">
-<img src="https://cdn.worldvectorlogo.com/logos/argo-cd.svg" alt="argocd" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/argo-cd.png"
+     alt="argocd"
+     width="40"
+     height="40"/>
 </a>
 
 <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/sonarqube/sonarqube-icon.svg" alt="sonarqube" width="40" height="40"/>
+<img src="https://cdn.simpleicons.org/sonarqube"
+     alt="sonarqube"
+     width="40"
+     height="40"/>
 </a>
 
 <!-- MERN -->
