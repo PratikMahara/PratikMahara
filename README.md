@@ -67,8 +67,8 @@ A passionate DevOps Engineer & MERN Stack Developer with hands-on experience in 
 </a>
 
 <a href="https://argo-cd.readthedocs.io/" target="_blank" rel="noreferrer">
-<img src="https://cdn.worldvectorlogo.com/logos/argo-cd.png"
-     alt="argocd"
+<img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/argo/icon/color/argo-icon-color.png"
+     alt="ArgoCD"
      width="40"
      height="40"/>
 </a>
