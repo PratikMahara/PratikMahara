@@ -8,7 +8,7 @@ A passionate DevOps Engineer & MERN Stack Developer with hands-on experience in 
 
 - 🔭 I’m currently working on **Cloud & DevOps Projects**
 
-- 🌱 I have 1+ year of experience in **DevOps Engineering**
+- 🌱 I have 2+ year of experience in **DevOps Engineering**
 
 - 🚀 Skilled in **Linux, Docker, AWS, Jenkins, Kubernetes (EKS), Terraform, ArgoCD, SonarQube, Trivy & CI/CD Automation**
 
