@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratik Mahara</h1>
 
 <h3 align="center">
-A passionate DevOps Engineer & MERN Stack Developer with hands-on experience in cloud infrastructure, CI/CD automation, container orchestration, and modern web application development.
+A passionate DevOps Engineer & Full Stack Developer with hands-on experience in cloud infrastructure, CI/CD automation, container orchestration, and modern web application development.
 </h3>
 
 
